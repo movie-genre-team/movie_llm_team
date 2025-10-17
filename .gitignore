@@ -1,0 +1,20 @@
+# Ambientes virtuais
+.venv/
+
+# Cache e metadados Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.idea/
+.vscode/
+
+# Pesos e modelos grandes (opcional)
+*.safetensors
+
+# Pastas de modelos locais (não versionar)
+movie_genre_model/
+movie_genre_tokenizer/
+teste/
+teste2/

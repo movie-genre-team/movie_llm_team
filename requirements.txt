@@ -1,0 +1,12 @@
+transformers>=4.30.0
+torch>=1.13.0
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+datasets
+requests
+tqdm
+seaborn
+gdown
