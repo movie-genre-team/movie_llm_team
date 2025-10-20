@@ -9,6 +9,10 @@ Interface gráfica em Python para **classificação automática de gêneros de f
 Este projeto utiliza **PyTorch** e **Transformers** para prever o gênero de um filme com base em sua sinopse.  
 A interface gráfica foi desenvolvida com **Tkinter**, exibindo os gêneros mais prováveis e um gráfico com as probabilidades.  
 
+> 🔗 **Treinamento do Modelo (Backend):**  
+> O notebook de treinamento do modelo está disponível em:  
+> [https://colab.research.google.com/drive/12K7a1SkHgnnxBkJPNDIblJkq9_yhCmLS?usp=sharing](https://colab.research.google.com/drive/12K7a1SkHgnnxBkJPNDIblJkq9_yhCmLS?usp=sharing)
+
 ---
 
 ## 🛠️ Requisitos  
@@ -59,7 +63,6 @@ pip install -r requirements.txt
  ┣ 📄 requirements.txt
  ┣ 📄 .gitignore
  ┗ 📄 README.md
-
 ```
 
 > ⚠️ As pastas `movie_genre_model/` e `movie_genre_tokenizer/` **devem existir localmente**, mas estão **no `.gitignore`** e **não devem ser commitadas**.  
