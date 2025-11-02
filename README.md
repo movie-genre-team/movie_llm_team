@@ -1,3 +1,15 @@
+
+## 🧑‍🤝‍🧑 Integrantes do Grupo
+
+| Nome | RA |
+|------|----|
+| João Pedro Soares dos Santos | 21.00410-2 |
+| Nathan Zanoni Da Hora | 21.01208-3 |
+| João Paulo de Souza Rodrigues | 21.01809-0 |
+| Gabriel Zendron Allievi | 21.01350-0 |
+
+---
+
 # 🎬 Classificador de Gênero de Filmes  
 
 Interface gráfica em Python para **classificação automática de gêneros de filmes** a partir de sinopses, usando **modelos Transformers** (Hugging Face).  
@@ -15,6 +27,38 @@ A interface gráfica foi desenvolvida com **Tkinter**, exibindo os gêneros mais
 
 ---
 
+## 🛠️ Pré-Requisito Importante — Python 3.9 ✅  
+
+Este projeto **deve** ser executado com o **Python 3.9**  
+(outros não são garantidos).
+
+📌 Se você **já tem Python instalado**, pode verificar a versão com:  
+```bash
+python3 --version
+```
+
+📌 Se a versão **for 3.9.x**, prossiga normalmente ✅  
+📌 Se NÃO tiver Python ou for outra versão ⛔, instale o Python 3.9:
+
+### 🐧 Linux (Ubuntu/Debian)
+```bash
+sudo apt update
+sudo apt install python3.9 python3.9-venv
+```
+
+### 🍎 macOS (Homebrew)
+```bash
+brew install python@3.9
+```
+
+### 🪟 Windows
+Baixe o instalador oficial:  
+➡ https://www.python.org/downloads/release/python-390/
+
+> Após instalar, marque a opção ✅ **"Add Python to PATH"**  
+
+---
+
 ## 🛠️ Requisitos  
 
 - Python 3.9 ou superior  
@@ -28,13 +72,13 @@ A interface gráfica foi desenvolvida com **Tkinter**, exibindo os gêneros mais
 
 #### 💻 No Windows (cmd ou PowerShell)
 ```bash
-python -m venv .venv
+py -3.9 -m venv .venv
 .venv\Scripts\activate
 ```
 
 #### 🐧 No Linux ou macOS
 ```bash
-python3 -m venv .venv
+python3.9 -m venv .venv
 source .venv/bin/activate
 ```
 
@@ -143,7 +187,7 @@ O repositório já inclui um `.gitignore` configurado para ignorar:
 
 ## 🧰 Tecnologias  
 
-- **Python 3.10+**
+- **Python 3.9**
 - **PyTorch**
 - **Transformers (Hugging Face)**
 - **Tkinter**
