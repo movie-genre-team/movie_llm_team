@@ -27,18 +27,17 @@ A interface gráfica foi desenvolvida com **Tkinter**, exibindo os gêneros mais
 
 ---
 
-## 🛠️ Pré-Requisito Importante — Python 3.9 ✅  
+## 🛠️ Pré-Requisito Importante — Python 3.9 recomendado ✅  
 
-Este projeto **deve** ser executado com o **Python 3.9**  
-(outros não são garantidos).
+Este projeto foi testado com Python 3.9, mas também funciona com versões superiores.
 
-📌 Se você **já tem Python instalado**, pode verificar a versão com:  
+Para verificar sua versão atual:
 ```bash
 python3 --version
 ```
 
-📌 Se a versão **for 3.9.x**, prossiga normalmente ✅  
-📌 Se NÃO tiver Python ou for outra versão ⛔, instale o Python 3.9:
+Se for 3.9 ou superior, pode prosseguir normalmente ✅
+Caso queira garantir compatibilidade máxima, instale o Python 3.9:
 
 ### 🐧 Linux (Ubuntu/Debian)
 ```bash
