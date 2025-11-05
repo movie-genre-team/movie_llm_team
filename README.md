@@ -50,7 +50,7 @@ sudo apt install python3.9 python3.9-venv
 brew install python@3.9
 ```
 
-### 🪟 Windows
+### 💻 Windows
 Baixe o instalador oficial:  
 ➡ https://www.python.org/downloads/release/python-390/
 
@@ -173,10 +173,18 @@ O modelo exibirá as probabilidades para gêneros como **Ficção científica**,
 
 ## 🎥 Vídeo Explicativo do Projeto  
 
-[![Assista ao vídeo](https://img.youtube.com/vi/COLOQUE_AQUI_O_LINK/maxresdefault.jpg)](https://youtu.be/COLOQUE_AQUI_O_LINK)
+[![Assista ao vídeo](https://img.youtube.com/vi/znsCyOXlM1E/maxresdefault.jpg)](https://youtu.be/znsCyOXlM1E)
 
 ---
 
+## 📄 Documentação do Projeto
+O relatório/documento oficial do projeto está disponível no link abaixo:
+
+📌 Acessar o Documento:
+[📄 Abrir Documento do Projeto (SharePoint)](https://mauabr-my.sharepoint.com/:w:/g/personal/21_00410-2_maua_br/EdbOiR8cE61IpaQEGwv5Tt8BZpSlcPx2lyvfZMSu8ARdOA?e=rQFYrJ)
+
+
+---
 ## 🔒 .gitignore  
 
 O repositório já inclui um `.gitignore` configurado para ignorar:
