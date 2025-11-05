@@ -171,6 +171,12 @@ O modelo exibirá as probabilidades para gêneros como **Ficção científica**,
 
 ---
 
+## 🎥 Vídeo Explicativo do Projeto  
+
+[![Assista ao vídeo](https://img.youtube.com/vi/COLOQUE_AQUI_O_LINK/maxresdefault.jpg)](https://youtu.be/COLOQUE_AQUI_O_LINK)
+
+---
+
 ## 🔒 .gitignore  
 
 O repositório já inclui um `.gitignore` configurado para ignorar:
